@@ -2,3 +2,7 @@
 .body{
  bacground : red; 
 }
+ .div{
+color: red;
+
+}
